@@ -16,6 +16,6 @@ Mapty is an OOP JavaScript-based web application project in which the user can o
 
 
 **Technologies**:
-HTML
-CSS
-JS (Main)
+- HTML
+- CSS
+- JS (Main)
